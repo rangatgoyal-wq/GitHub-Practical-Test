@@ -1,0 +1,25 @@
+body {
+            font-family: Arial;
+            background-color: lightblue;
+            margin: 30px;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        h2 {
+            color: navy;
+        }
+
+        section {
+            background-color: white;
+            padding: 15px;
+            margin: 15px;
+            border-radius: 10px;
+        }
+
+        a {
+            color: blue;
+        }
